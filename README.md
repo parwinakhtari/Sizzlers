@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/68842515/141690386-321f4254-7b78-42f4-ab9e-919a33c290d7.png)
+
 # Team Sizzlers
 
 It is an AI based GUI to detect tumor and its type with maximum probability from a class of tumor using OpenCV on brain scans.<br/>
