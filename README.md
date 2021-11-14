@@ -2,7 +2,7 @@
 
 # Team Sizzlers
 
-It is an AI based GUI to detect tumor and its type with maximum probability from a class of tumor using OpenCV on brain scans.<br/>
+We have made an AI based GUI to detect tumor and its type with maximum probability from a class of tumor using OpenCV on brain scans with an accuracy of <b>94%</b>.<br/>
 
 
 Contents
