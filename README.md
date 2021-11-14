@@ -3,6 +3,7 @@
 # Team Sizzlers
 
 We have made an AI based GUI to detect tumor and its type with maximum probability from a class of tumor using OpenCV on brain scans with an accuracy of <b>94%</b>.<br/>
+We have used Tkinter to develop the GUI by using python libraries numpy,pandas,pickle,etc.
 
 
 Contents
