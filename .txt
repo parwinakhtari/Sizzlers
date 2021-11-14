@@ -1,0 +1,63 @@
+
+
+First Name: 
+Last Name: 
+Phone: 
+Email: 
+Address 
+Gender: Male
+Report:  Healthy brain
+
+
+First Name: 
+Last Name: 
+Phone: 
+Email: 
+Address 
+Gender: Male
+Report:  isINFECTED BY  Infected By Malaria!!!
+
+
+First Name: 
+Last Name: 
+Phone: 
+Email: 
+Address 
+Gender: Male
+Report:  You have pituitary Tumor!!!
+
+
+First Name: 
+Last Name: 
+Phone: 
+Email: 
+Address 
+Gender: Male
+Report:  You have pituitary Tumor!!!
+
+
+First Name: 
+Last Name: 
+Phone: 
+Email: 
+Address 
+Gender: Male
+Report:  You have pituitary Tumor!!!
+
+
+First Name: 
+Last Name: 
+Phone: 
+Email: 
+Address 
+Gender: 
+Report:  You have pituitary Tumor!!!
+
+
+First Name: 
+Last Name: 
+Phone: 
+Email: 
+Address 
+Gender: 
+Report:  You have pituitary Tumor!!!
